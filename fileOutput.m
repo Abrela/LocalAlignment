@@ -11,7 +11,7 @@ for i = 1:m(2)
     if seq1(i)==seq2(i)
         line = strcat(line, '|');
     else
-        line = strcat(line, '_');
+        line = strcat(line, " ");
     end
 end
 
