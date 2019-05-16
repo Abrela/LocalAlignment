@@ -33,10 +33,10 @@ E = 'AsiaticElephant.txt';
  %S1='GTAA';
  %S1 = 'ACG';
  %S2 = 'TCGG';
- S1 = 'GTAA';
- S2 = 'CTTAGA';
- %S2 = 'AGT';
- %S1 = 'AAC';
+ %S1 = 'GTAA';
+ %S2 = 'CTTAGA';
+ S2 = 'AGT';
+ S1 = 'AAC';
 
 
 
